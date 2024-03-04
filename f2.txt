@@ -1,1 +1,0 @@
-virtulization is a technique in cloud computing where multiple vms are run on top of single host system and make use of the hardware resources of the system to perform it's task.
