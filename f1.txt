@@ -1,0 +1,1 @@
+devops is a methodology or a technique in which organization release the highest quality of software products to the customers by undergoing sdlc and emhpazies on testing,collabaration,monitoring.
