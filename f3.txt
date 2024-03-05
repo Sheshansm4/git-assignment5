@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 docker is a containerization tool in which containerized applications are runnedon multiple containers and providing running environment for the applications.
@@ -7,3 +8,6 @@ docker client is the docker host server where docker commands, dockers services 
 hi this sheshan certified in devops and aws 
 
 
+=======
+docker is a containerization tool in which containerized applications are runnedon multiple containers and providing running environment for the applications. 
+>>>>>>> 9a1df1fd8d48fea3a09e15223edca6010df5b8ed

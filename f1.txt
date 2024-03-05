@@ -1,9 +1,9 @@
 devops is a methodology or a technique in which organization release the highest quality of software products to the customers by undergoing sdlc and emhpazies on testing,collabaration,monitoring.
 
-<<<<<<< HEAD
 
 linux is an open source os.
 
 >>>>>>>>>>>>>>>>>>>>>>
 maven is a building tool which heps in build process of maven projects by undergoing maven lifecycle
 >>>>>>> f447245 (f1.txt is modified from feature1)
+
