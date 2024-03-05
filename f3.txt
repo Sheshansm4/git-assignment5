@@ -2,4 +2,8 @@ docker is a containerization tool in which containerized applications are runned
 
 
 
+
 docker client is the docker host server where docker commands, dockers services are managed and executed. 
+
+hi this sheshan certified in devops and aws 
+
